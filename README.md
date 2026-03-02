@@ -19,6 +19,12 @@ Document my cybersecurity learning journey through Capture The Flag (CTF) challe
 - Reverse Engineering
 - Vulnerability Analysis
 
+## 📊 picoCTF Progress
+- ✅ Easy: 66
+- ✅ Medium: 37
+- ✅ Hard: 1
+- 🚩 Total Solved: 104+
+
 ## 🚀 Platform
 Challenges from: https://picoctf.org/
 
